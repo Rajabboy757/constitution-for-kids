@@ -14,7 +14,7 @@ class Sherlar extends StatelessWidget {
         theme: ThemeData(primaryColor: Colors.blue),
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Konstitutsiya haqida sherlar'),
+              title: Text('Konstitutsiya haqida she\'rlar'),
               actions: [
                 IconButton(onPressed: (){}, icon: Icon(Icons.menu_outlined))
               ],
